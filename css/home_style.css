@@ -1,0 +1,8 @@
+@import "home_content_style.css";
+@import "home_media.css";
+@import "header_footer_style.css";
+
+body{
+    margin: 0;
+    font-family: "Source Sans Pro", sans-serif;
+}

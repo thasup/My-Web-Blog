@@ -1,0 +1,69 @@
+.img img{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.continent{
+    font-size: 80%;
+    color: #999;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+}
+
+.continent:hover{
+    color: #000;
+}
+
+.head-liner a{
+    text-decoration: none;
+    color: #000;
+}
+
+.head-liner a:hover{
+    text-decoration: underline;
+    color: #F9AA33;
+}
+
+.read-more{
+    text-align: end;
+    vertical-align: bottom;
+}
+
+.read-more a{
+    text-decoration: none;
+    color: #000;
+}
+
+.read-more a:hover{
+    color: #abafc5;
+}
+
+.did-you-know-list{
+    margin: 0px;
+    padding: 0px;
+}
+.did-you-know-list li{
+    list-style: none;
+} 
+
+.did-you-know-list li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.did-you-know-list li a:hover{
+    text-decoration: underline;
+}
+
+.main-head-liner a{
+    text-decoration: none;
+    color: #000;
+}
+
+.main-head-liner a:hover{
+    text-decoration: underline;
+    color: #F9AA33;
+}
+

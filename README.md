@@ -5,4 +5,4 @@ The goal is learn and practice how to make <em>css gird</em> and <em>css flexbox
 
 
 <b>Link : </b>
-https://thasup.github.io/Web-Blog/
+https://thasup.github.io/My-Web-Blog/

@@ -1,3 +1,5 @@
+![My_project](docs/preview_project1.gif)
+
 # Web-Blog
 This project is part of Udacity Front End Web Developer Nanodegree Program.
 
